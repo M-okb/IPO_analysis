@@ -8,10 +8,7 @@
 ##crawling
 2010年以降のデータは
   - [総合投資情報サイト](http://www.traders.co.jp)
-  - [yahoo finance](http://stocks.finance.yahoo.co.jp)
+  - [yahoo finance](http://stocks.finance.yahoo.co.jp)  
 から頂戴しております。  
-~~Yahoo!はクローリングに厳しいのであんまり大っぴらにできない  ~~
+~~Yahoo!はクローリングに厳しいのであんまり大っぴらにできない~~  
 [ここ](https://github.com/M-okb/IPO_analysis/tree/master/crawl)を見てもらえれば非定型の表記に対してどう頑張ったかが見て取れるハズ
-
-
-  
