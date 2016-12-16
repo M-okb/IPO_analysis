@@ -13,13 +13,13 @@ with open('ipo_companylist2.csv', 'r') as f:
     for row in reader:
         comp_list.append(row[0])
 
-master_url =  'http://www.traders.co.jp/ipo_info/schedule/ipo_info.asp?no='
+prefix_url =  'http://www.traders.co.jp/ipo_info/schedule/ipo_info.asp?no='
 
 result = []
 
 for (i,comp) in enumerate(comp_list):
     time.sleep(1)
-    url = master_url + comp
+    url = prefix_url + comp
     try:
         #   クローリング
         resp = request.urlopen(url)

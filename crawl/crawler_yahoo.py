@@ -10,10 +10,10 @@ with open('old_comps.csv', 'r') as f:
     for row in reader:
         comp_list.append(row[0])
 
-master = 'http://stocks.finance.yahoo.co.jp/stocks/detail/?code='
+prefix = 'http://stocks.finance.yahoo.co.jp/stocks/detail/?code='
 result = []
 for comp in comp_list:
-    url = master + comp
+    url = prefix + comp
     resp = request.urlopen(url)
     html = resp.read()
     obj = pq(html)
