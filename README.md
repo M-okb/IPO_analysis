@@ -26,6 +26,8 @@
 * 変数について
   - **offer date**   
   上場日を8桁で示したもの。（yyyymmdd）
+  - **security code**  
+  企業にユニークに与えられる4桁の証券番号。
   - **offer price**  
   公募価格。（円）
   - **opening price**  
