@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}はじめに}{2}
+\contentsline {section}{\numberline {2}IPOにおけるアンダープライシング}{2}
+\contentsline {subsection}{\numberline {2.1}アノマリーとしてのアンダープライシング}{2}
+\contentsline {subsection}{\numberline {2.2}アンダープライシングの決定メカニズムについての仮説}{2}
+\contentsline {subsection}{\numberline {2.3}マーケット・センチメントを説明した先行研究の展望}{4}
+\contentsline {section}{\numberline {3}リサーチ・デザイン}{4}
+\contentsline {subsection}{\numberline {3.1}データ・ソース}{4}
+\contentsline {subsection}{\numberline {3.2}データの特徴}{4}
+\contentsline {subsection}{\numberline {3.3}モデルの構造と想定される結果}{4}
+\contentsline {section}{\numberline {4}実証分析の結果}{4}
+\contentsline {section}{\numberline {5}総括と今後の課題}{4}
