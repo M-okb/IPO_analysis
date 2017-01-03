@@ -1,9 +1,10 @@
 \contentsline {section}{\numberline {1}はじめに\#要更新}{2}
 \contentsline {section}{\numberline {2}IPOにおけるアンダープライシング}{3}
 \contentsline {subsection}{\numberline {2.1}アノマリーとしてのアンダープライシング}{3}
-\contentsline {subsection}{\numberline {2.2}アンダープライシングをめぐる仮説}{3}
-\contentsline {section}{\numberline {3}リサーチ・デザイン}{4}
-\contentsline {subsection}{\numberline {3.1}本研究の目的と意義\#要更新}{4}
+\contentsline {subsection}{\numberline {2.2}IPOのメカニズム\#要更新}{3}
+\contentsline {subsection}{\numberline {2.3}アンダープライシングをめぐる仮説}{3}
+\contentsline {section}{\numberline {3}リサーチ・デザイン}{5}
+\contentsline {subsection}{\numberline {3.1}本研究の目的と意義\#要更新}{5}
 \contentsline {subsection}{\numberline {3.2}データ・ソース}{5}
 \contentsline {subsection}{\numberline {3.3}データの特徴}{7}
 \contentsline {subsubsection}{\numberline {3.3.1}IPO件数とアンダープライシング\#要更新}{7}
@@ -12,5 +13,5 @@
 \contentsline {subsubsection}{\numberline {3.3.4}主幹事証券会社}{9}
 \contentsline {subsubsection}{\numberline {3.3.5}上場市場}{11}
 \contentsline {subsection}{\numberline {3.4}モデルの構造と想定される結果}{11}
-\contentsline {section}{\numberline {4}実証分析の結果}{13}
-\contentsline {section}{\numberline {5}総括と今後の課題}{13}
+\contentsline {section}{\numberline {4}実証分析の結果}{14}
+\contentsline {section}{\numberline {5}総括と今後の課題}{17}
